@@ -1,0 +1,33 @@
+.header {
+  background-color: aqua;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+}
+
+.navigation {
+  width: 30%;
+  background-color: blue;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.content {
+  width: 70%;
+  background-color: brown;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.footer {
+  background-color: yellow;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}

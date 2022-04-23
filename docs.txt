@@ -1,0 +1,26 @@
+1/tổng hợp buổi 1 ReactJS:
+    - cách chia component : 
+        +) dể quản lý
+        +) tái sử dụng
+    - ReactJS có 2 dạng component :
+        +) class component
+        +) function component
+    - start project:
+        +) npm run start
+
+quá trình phát triển website :
+    1/ development ( những người dev vào đây code )
+    2/ staging ( tester vào kiếm bug ) 
+    3/ production ( cho người dùng sài )
+
+
+2/ tổng hợp buổi 1 ReactJS:
+    - ) render list ( array )
+    - ) props ( giao tiếp data gửi 2 component )
+    - ) state ( cần dùng khi thay đổi gia trị , thì UI thay đổi theo )
+    - ) forceUpdate ( giúp chạy lại render )
+
+note : 
+    cách chạy lại project khi lấy từ login.cybersoft.edu.vn về
+        -) npm i
+        -) npm run start
